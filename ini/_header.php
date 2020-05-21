@@ -1,10 +1,10 @@
-    <div class="container is-fluid">
+    <div class="container is-fluid is-hidden-touch">
         <section class="hero is-primary">
             <div class="hero-body">
                 <div class="container">
                     <nav class="level">
                         <p class="level-item has-text-centered">
-                            <a class="link has-text-white"><i class="fas fa-home"></i> Home</a>
+                            <a class="link has-text-white" href="./index.php"><i class="fas fa-home"></i> Home</a>
 
                         </p>
                         <p class="level-item has-text-centered">

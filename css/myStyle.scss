@@ -1,3 +1,8 @@
+@charset "utf-8";
+
+// Import a Google Font
+@import url("https://fonts.googleapis.com/css?family=Nunito:400,700");
+
 * {
   margin: 0;
   padding: 0;
@@ -14,4 +19,17 @@ Body {
   position: sticky;
   top: 0;
   z-index: 999;
+}
+.card-text-primary-light {
+  background: #ebfffc;
+}
+.shadow-primary-light {
+  box-shadow: -4px 12px 15px -1px rgba(0, 209, 178, 0.81);
+}
+.card-text-info-light {
+  background: #eef6fc;
+}
+
+.shadow-info-light {
+  box-shadow: -4px 12px 15px -1px rgba(32, 156, 238, 0.57);
 }
